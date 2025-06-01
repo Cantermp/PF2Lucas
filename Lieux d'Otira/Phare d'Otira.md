@@ -68,6 +68,7 @@ Sentiment: Une chose sombre et lointaine observe par les vitraux.
 Anti-chambre: A14, Est:
 La porte sud verd A4 est compliquée à ouvrir, à cause de gravats. Des cranes recouverts de mousses sont sur les deux battants de la porte. Il y a des cranes par terre. 
 Un [[Scorpion géant]] nous attaque. 
+Il y a des effigies diverses dans la salle. 
 
 [[Grotte du dragon du marais]]:
 On la cherche, c'est quelque part pas loin. 

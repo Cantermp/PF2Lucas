@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lieux d'Otira/Phare d'Otira.md",
+                "file": "Evènement spéciaux/Éclair divin.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Phare d'Otira"
+              "title": "Éclair divin"
             }
           },
           {
@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Creatures/Scorpion géant.md",
+                "file": "Objets/Boucliers avec des lions.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,21 +76,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Scorpion géant"
+              "title": "Boucliers avec des lions"
             }
           },
           {
-            "id": "4bb7adbd5bde6c53",
+            "id": "e930956f618eb8f7",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "PNJ Otira/Thackaray.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Thackaray"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -198,7 +212,7 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true,
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
@@ -237,35 +251,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4bb7adbd5bde6c53",
+  "active": "bdc424fd19f05f33",
   "lastOpenFiles": [
-    "README.md",
-    "Creatures/Scorpion géant.md",
-    "PF2Lucas/README.md",
-    "PF2Lucas",
     "Lieux d'Otira/Phare d'Otira.md",
-    "PNJ Otira/Cercle des balbuzards.md",
-    "Lieux d'Otira/Le Coin des Escrocs.md",
-    "Creatures/Mitflits.md",
+    "Objets/Boucliers avec des lions.md",
+    "PNJ Otira/Thackaray.md",
     "Lieux d'Otira/Otira.md",
-    "Evènement spéciaux/Lueur au phare.md",
-    "Misflits.md",
     "Lieux d'Otira/Sous-sol du phare d'Otira.md",
-    "Evènement spéciaux/Éclair divin.md",
     "Lieux d'Otira/Tour du Phare.md",
-    "PNJ Otira/Wrin Sivinxi.md",
+    "Creatures/Asticot géant.md",
     "Creatures/Crapaud énorme.md",
-    "PNJ Otira/groupe d'aventurier.md",
-    "Lieux d'Otira/Grotte du dragon du marais.md",
     "Creatures/Grosse mouche.md",
     "Creatures/Kobolds fantômes.md",
-    "PNJ Otira/Druides du cercle de Pierre.md",
-    "NoteName^.md",
-    "Creatures/Asticot géant.md",
-    "Objets/Boucliers avec des lions.md",
-    "PJ/Thortot.md",
-    "Théologie/Panthéon de la Caravane cosmique.md",
+    "Creatures/Mitflits.md",
+    "Creatures/Scorpion géant.md",
+    "Evènement spéciaux/Lueur au phare.md",
+    "Evènement spéciaux/Éclair divin.md",
+    "destin.md",
     "PJ/Hashman.md",
+    "PJ/Joueurs et personnages.md",
+    "PJ/Shin.md",
+    "PJ/Thortot.md",
+    "PJ/Zathra.md",
+    "Théologie/Panthéon de la Caravane cosmique.md",
+    "README.md",
+    "PF2Lucas/README.md",
+    "PF2Lucas",
+    "PNJ Otira/Cercle des balbuzards.md",
+    "Lieux d'Otira/Le Coin des Escrocs.md",
+    "Misflits.md",
     "Lieux/Otira/Untitled.canvas",
     "Lieux/Otira",
     "Théologie",

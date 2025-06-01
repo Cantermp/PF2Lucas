@@ -1,0 +1,1 @@
+Le quartier général de la Garde d’Otira est un bâtiment massif en pierre orné de bannières vertes et blanches assor- ties aux uniformes des gardes. Ces derniers maintiennent l’ordre et la paix en ville en patrouillant également le long des routes qui l’entourent pour éloigner tout bandit ou menace. Les gardes sont également les pompiers de la ville.

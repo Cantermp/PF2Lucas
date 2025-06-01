@@ -1,0 +1,1 @@
+Dans le phare d'Otira, qui reprend beaucoup de pièces, la tour principale est l'élément qui reste le mieux conservé du domaine. À sa base, en bas du batiment, se situe une marre de sang "profonde". Elle est clairement négative et dangereuse. 

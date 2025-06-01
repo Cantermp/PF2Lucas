@@ -1,0 +1,1 @@
+Le maire actuel d’Otira est Oseph Menhemes, direc- teur de l’une des trois exploitations forestières locales et propriétaire de la célèbre Roue géante et de la Rampe de chargement d’Otira. Bien qu’il serve la ville avec dévoue- ment et prenne son rôle de chef de famille nombreuse à cœur, Oseph est ambitieux et désire augmenter les capacités d’exploitation de bois de la ville.

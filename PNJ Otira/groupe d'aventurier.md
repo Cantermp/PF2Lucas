@@ -1,1 +1,1 @@
-Ils sont entrés dans la [[Grotte du dragon du marais]]. Et seul le dragon est ressorti. La grotte est sous le hangar à bateau. 
+Ils sont entrés dans la [[Grotte sous le phare]]. Et seul le dragon est ressorti. La grotte est sous le hangar à bateau. 

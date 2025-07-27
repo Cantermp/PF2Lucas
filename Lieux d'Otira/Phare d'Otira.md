@@ -30,7 +30,7 @@ Donne sur le ponton
 
 Ponton: A17: Nord ouest
 Il y a une barque avec une tourte au saumon fumé, et un symbole gravé sur la barque: Un oiseau en vol. C'est la marque du cercle des [[Cercle des balbuzards]]. 
-On peut passer en dessous du ponton, pour accéder à une [[Grotte du dragon du marais]]. On pense que l'entrée est là. 
+On peut passer en dessous du ponton, pour accéder à une [[Grotte sous le phare]]. On pense que l'entrée est là. 
 
 
 [[Tour du Phare]]: A11: Nord
@@ -84,5 +84,5 @@ Il y a un mec décédé au sol. Il n'est pas frais, mais pas encore complètemen
 
 
 
-[[Grotte du dragon du marais]]:
+[[Grotte sous le phare]]:
 On la cherche, c'est quelque part pas loin. 

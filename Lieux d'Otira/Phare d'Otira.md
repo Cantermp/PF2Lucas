@@ -25,13 +25,21 @@ La salle à manger: A7, Ouest
 Du bordel cassé dedans et des gravas du plafonds. 
 On tombe sur 6 [[Kobolds fantômes]] qui sortent des gravas et nous fondent dessus.
 
+Petite cabane de pêcheur: A16, Nord-Ouest
+Donne sur le ponton
 
 Ponton: A17: Nord ouest
 Il y a une barque avec une tourte au saumon fumé, et un symbole gravé sur la barque: Un oiseau en vol. C'est la marque du cercle des [[Cercle des balbuzards]]. 
+On peut passer en dessous du ponton, pour accéder à une [[Grotte du dragon du marais]]. On pense que l'entrée est là. 
+
 
 [[Tour du Phare]]: A11: Nord
 La grande tour du phare. La porte pour y aller est vermoulue et coincée. 
-On peut monter avec un escalier, 30m, et une trappe permet d'aller au sommet. Une tache de sang frais au sol. 
+On peut monter avec un escalier, 30m, et une trappe permet d'aller au sommet. Une [[Flaque de sang]] frais au sol. 
+La trappe au sommet s'ouvre avec la clef avec le Phare. Ca monte à A25. 
+
+Sommet du Phare: A25:
+Des barreaux métalliques entourent la pièce, et un truc qui fait de la lumière: La lanterne de morne lueur. Des vagues de force émanent de la lampe. Une aura magique est bien présente. On l'explore [[Tour du Phare]].  
 
 
 Étude à coté de la tour du phare: A12, Nord:
@@ -41,7 +49,7 @@ On y trouve un passage secret. Ca mène au [[Sous-sol du phare d'Otira]].
 Salle à coté de la tour du phare: A13: Nord:
 Derrière une tappisserie, on trouve une porte secrete. 
 On trouve un trousseau de clef, avec 6 rouillées en fer, et 2 en bronze. 
-En bronze: Une avec un symbole de Phare, et l'autre avec un symbole de Livre. 
+En bronze: ==**Une avec un symbole de Phare, et l'autre avec un symbole de Livre.**== 
 
 
 Grande salle: A4: Centre:
@@ -61,14 +69,20 @@ Pièce du trone: A10:
 Nid à [[Mitflits]]. Un tas de sable avec des bouts de bois. Il y a quelques [[Mitflits]] et aussi une araignée. Le boss nous parle. Il nous renseigne sur un groupe d'aventurier passé passé là il y a une semaine. 
 
 
+Anti-chambre: A14, Est:
+La porte sud vers A4 est compliquée à ouvrir, à cause de gravats. Des cranes recouverts de mousses sont sur les deux battants de la porte. Il y a des cranes par terre. 
+Un [[Scorpion géant]] nous attaque. 
+Il y a des effigies diverses dans la salle. 
+
+
 Chapelle: A15, Nord-est:
 De la symbolique, une grande salle, étoile orange, un cadavre de moins d'un mois qui essaie d'ouvrir quelque chose. 
 Sentiment: Une chose sombre et lointaine observe par les vitraux. 
+C'était un temple de [[Nhimbaloth]]. 
+Il y a un mec décédé au sol. Il n'est pas frais, mais pas encore complètement bouffé. On pense qu'il a voulu fuir vers la porte vers A13. 
 
-Anti-chambre: A14, Est:
-La porte sud verd A4 est compliquée à ouvrir, à cause de gravats. Des cranes recouverts de mousses sont sur les deux battants de la porte. Il y a des cranes par terre. 
-Un [[Scorpion géant]] nous attaque. 
-Il y a des effigies diverses dans la salle. 
+
+
 
 [[Grotte du dragon du marais]]:
 On la cherche, c'est quelque part pas loin. 

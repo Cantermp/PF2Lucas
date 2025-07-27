@@ -1,0 +1,3 @@
+Otira a été fondée par 4 aventuriers. 
+Un des aventuriers avait Otira comme nom de famille. Il a péri lors du nettoyage du [[Phare d'Otira]] infestée de monstruausité en tout genre. Notamment une femme qui s'appelle [[Belcora]]
+, qui a été détruite il y a 500 ans. 

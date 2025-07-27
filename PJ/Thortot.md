@@ -5,4 +5,11 @@
 
 Lire la destinée:
 - Hasman: Dimanche aprem, avant d'aller au phare: Combat
-- 
+
+
+
+
+
+Nuitées:
+- Dormi à la taverne d'Otira
+- Dormi chez Wrin

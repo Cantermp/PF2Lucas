@@ -8,3 +8,6 @@
 		- Je pense que j'ai oublié de remercier le dieux pour la bénédiction qu'on a reçue dans les souterrains. 
 			- Je vais organiser une messe et prière avec mes comparses. 
 			- C'est pas top: Les dieux éteignent le feu. On a fait une prière, mais dans la chapelle d'un autre dieux, donc pas top. Il va falloir que je recommence mais ailleurs. 
+	- J'ai aussi compris que dans la [[La Pêcherie d’Otira]] j'avais laissé tomber mon arme au sol pour utiliser une épée enchantée flamboyante. Ce n'était pas une bonne idée. 
+	- J'ai tenté une prière pour me faire pardonner de mes dieux, mais j'ai fait cela dans la chapelle du [[Phare d'Otira]], et les dieux n'étaient pas content que je fasse cela dans une chapelle d'un autre dieu. 
+	- Lors de notre retour à Otira, je vais prier au temple de la [[La Bibliothèque de La Fleur de L’Aube]] pour me faire pardonner de mes dieux. J'y fais une donation de 2PO. Je sens que mes dieux sont enfin satisfaits. 

@@ -5,4 +5,4 @@ Le leader des [[Mitflits]] nous informe qu'il y a une semaine, des aventuriers s
 On y combat aussi la [[Brume vampirique]]. Elle s'est formée autour. On arrive à la détruire, la flaque de sang retombe au sol. 
 
 
-Après avoir battu la brume, le phare s'illumine fortement, et pointe vers le sud, sur le [[Cimetière d'Otira]]. 
+Après avoir battu la brume, le phare s'illumine fortement, et pointe vers le sud, sur le [[Cimetière d'Otira]]. Arrivé à Otira, on nous dit que ca bouge dans le [[Cimetière d'Otira]].

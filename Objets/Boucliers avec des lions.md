@@ -4,4 +4,6 @@ La famille correspondante est la famille [[Thackaray]].
 
 PNJ nous a renseigné déjà avoir vu un de ces bouclier similaires dans le passé, il en existe un second. 
 
- Nous avons acheté le second bouclier à [[Yinyasmera]] pour 20 PO. 
+Nous avons acheté le second bouclier à [[Yinyasmera]] pour 20 PO. 
+
+Ils vibrent quand on les amènent au [[Domaine des Thackaray]]. 

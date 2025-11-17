@@ -1,0 +1,2 @@
+Elle faisait partie d'un groupe d'aventurier, la pathfinder society. 
+Elle racontait souvent les histoires de ses aventures. Elle était soigneuse. Elle est morte lors de la fouille d'une épave près de récifs. 

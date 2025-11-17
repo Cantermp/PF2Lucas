@@ -10,4 +10,14 @@ Nuitées:
 Lire la destinée:
 - Hashman: Dimanche aprem, avant d'aller au phare: **Combat**
 - Hashman: dans le phare le soir après le dragon de la grotte et les morlocks: **Acrobatie**
-- Shin: Vision
+- Shin: **Vision**
+- Zathra: Dans notre camp de pêche, avant d'entrer dans une pièce avec les toiles d'araignées: **Noeud**
+- [[Olli]]: Avant d'aller dormir: **Rêve**
+- 
+
+
+
+Bonus to remember:
+**Communal healing**: +X HP healed per Heal spell to another
+**Healers toolkit +1:** +1 to medecine checks on First Aid, Treat Disease, Treat Poison, or Treat Wounds
+**Staff of healing:** A staff of healing grants an item bonus to the Hit Points you restore anytime you cast the heal spell using your own spell slots or using charges from the staff. [[Baton de soin de Finley]]. Cantrip: Stabilise. 1st: Heal. Charges equal to max spell slot (2 charges at level 3)

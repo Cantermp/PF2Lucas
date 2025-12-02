@@ -1,1 +1,1 @@
-Ville d'origine de [[Belcora Avurex]]. 
+Ville d'origine de [[Belcora Arruvex]]. 

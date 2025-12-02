@@ -1,6 +1,6 @@
 Lucas: DM
 Martin: [[Thortot]]
 Maxime: [[Shin]]
-Sebastien: [[Hashman]]
+Sebastien: [[Ashan]]
 Youri: [[Zathra]]
 

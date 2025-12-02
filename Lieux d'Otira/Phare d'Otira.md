@@ -1,4 +1,6 @@
 
+C'est une partie, une structure du [[Fortin de Mornelueur]]. 
+
 On est à 45 minutes de la ville. 
 
 **Tour de guet:** A1, Sud
@@ -81,7 +83,34 @@ Sentiment: Une chose sombre et lointaine observe par les vitraux.
 C'était un temple de [[Nhimbaloth]]. 
 Il y a un mec décédé au sol. Il n'est pas frais, mais pas encore complètement bouffé. On pense qu'il a voulu fuir vers la porte vers A13. 
 
+On y retourne et on rentre en cassant les vitraux par derrière. Dès que [[Shin]] rentre, des [[Lueurs Surgissantes]] relèvent des cadavres. 
 
+
+Nord ouest, passé un petit pon:
+Bureau A19:
+On y trouve un [[Brownie]]. Elle nous indique une créature dangereuse plus loin, dans un couloir.
+On trouve aussi des escaliers en collimacon qui descendent. Peut être vers le sous sol ou grotte?
+
+Couloir A22:
+On trouve 4 tableaux dans le couloir, 
+1) Citée d'[[Apsalom]] en feu. 
+	1) Note: C'est ainsi que les imbéciles souffriront
+2) Phare avec une lueur bleue contenant des visages fantomatiques
+	1) Note: Puisse la lumière briller à jamais
+3) Une créature qu'on ne reconnait pas, tout lacéré
+	1) Note: L'artiste à l'oeuvre
+4) Une femme qu'on connait: [[Belcora Arruvex]]. On y reconnait la [[La dame écarlate]]. 
+	1) Note: La dame de la lumière
+Ca mène à A23
+
+Salle atelier A23:
+Une salle octogonale, qui ressemble à un atelier. 
+On y trouve une longue vue sertie de Pierre précieuse. 
+Des débris partout et du verre au sol. 
+Une [[Oiseau en bois mécanique]] se dresse sur le tas et nous demande:
+Le maitre [[Azrinaé]] est-il revenu ?
+La créature s'envole et un combat commence. 
+On y trouve aussi une gemme dans le corp, et une longue vue. 
 
 
 [[Grotte sous le phare]]:

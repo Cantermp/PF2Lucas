@@ -1,0 +1,1 @@
+Le fortin construit par [[Belcora Arruvex]], donc le [[Phare d'Otira]] est une des structure. 

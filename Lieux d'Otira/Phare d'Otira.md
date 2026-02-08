@@ -83,7 +83,7 @@ Sentiment: Une chose sombre et lointaine observe par les vitraux.
 C'était un temple de [[Nhimbaloth]]. 
 Il y a un mec décédé au sol. Il n'est pas frais, mais pas encore complètement bouffé. On pense qu'il a voulu fuir vers la porte vers A13. 
 
-On y retourne et on rentre en cassant les vitraux par derrière. Dès que [[Shin]] rentre, des [[Lueurs Surgissantes]] relèvent des cadavres. 
+On y retourne et on rentre en cassant les vitraux par derrière. Dès que [[Shin]] rentre, des [[Lueurs de Cadavres]] relèvent des cadavres. 
 
 
 Nord ouest, passé un petit pon:
@@ -115,3 +115,9 @@ On y trouve aussi une gemme dans le corp, et une longue vue.
 
 [[Grotte sous le phare]]:
 On la cherche, c'est quelque part pas loin. 
+
+
+
+
+
+

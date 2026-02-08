@@ -1,0 +1,8 @@
+- Ashan: Dimanche aprem, avant d'aller au phare: **Combat**
+- Ashan: dans le phare le soir après le dragon de la grotte et les morlocks: **Acrobatie**
+- Shin: **Vision**
+- Zathra: Dans notre camp de pêche, avant d'entrer dans une pièce avec les toiles d'araignées: **Noeud**
+- [[Olli]]: Avant d'aller dormir: **Rêve**
+- Shin: Avant de retourner dans le fortin/phare en enquetant sur Belcora: **Poupée**
+- Ashan: Dans le phare dans les sous sols: **Rencontre**
+- 

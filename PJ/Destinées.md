@@ -5,4 +5,5 @@
 - [[Olli]]: Avant d'aller dormir: **Rêve**
 - Shin: Avant de retourner dans le fortin/phare en enquetant sur Belcora: **Poupée**
 - Ashan: Dans le phare dans les sous sols: **Rencontre**
+- Zathra: Dans le sous sol du phare: **Lueur**
 - 

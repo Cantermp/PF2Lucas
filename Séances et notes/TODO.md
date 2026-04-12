@@ -1,2 +1,2 @@
-- Ramener des livres pour [[Augrael]]. 
-- 
+- Ramener des livres pour [[Augrael]], et des cadavres. 
+- On doit ternir l'image de [[Volluk Azrinaé]] par principe. 

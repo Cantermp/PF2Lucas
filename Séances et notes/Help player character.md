@@ -1,7 +1,7 @@
 
 
-Point de focus: 2
-Point de héros: 0
+Point de focus: 1
+Point de héros: 1
 Charges of Staff of healing (max 2): 0
 Wand of healing (max 1): 0
 

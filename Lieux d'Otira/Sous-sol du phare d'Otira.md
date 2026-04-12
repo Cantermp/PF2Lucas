@@ -58,7 +58,9 @@ Donne sur la caverne B19. Un escalier, et une salle plus haut.
 Une zone de froid qui s'intensifie inflige et gèle ceux présents dans la zone. 
 
 
+B21?: Un laboratoire alchimique avec les travaux de [[Volluk Azrinaé]] et une poupée pour une gemme. 
 
+B22: Chambre impersonnelle du [[Volluk Azrinaé]]. Il y a une porte qui débouche sur une chambre plus petite de [[Borbot]]. 
 
 
 

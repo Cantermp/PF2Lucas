@@ -1,0 +1,1 @@
+Serviteur gobelin dans une gemme, de [[Volluk Azrinaé]]. 

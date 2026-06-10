@@ -1,4 +1,4 @@
-Otira a été fondée par 4 aventuriers. 
+Otira a été fondée par 4 aventuriers, la [[Garde Rose]]. 
 Un des aventuriers avait Otira comme nom de famille. Il a péri lors du nettoyage du [[Phare d'Otira]] infestée de monstruausité en tout genre. Notamment une femme qui s'appelle [[Belcora Arruvex]], qui a été détruite il y a 500 ans. 
 
 [[Oseph Menhemes]] Nous raconte l'histoire que lui connait:

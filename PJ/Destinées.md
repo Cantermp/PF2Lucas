@@ -6,4 +6,5 @@
 - Shin: Avant de retourner dans le fortin/phare en enquetant sur Belcora: **Poupée**
 - Ashan: Dans le phare dans les sous sols: **Rencontre**
 - Zathra: Dans le sous sol du phare: **Lueur**
+- Shin: Au petit dej après exploration du -1 du phare: **Toile**
 - 

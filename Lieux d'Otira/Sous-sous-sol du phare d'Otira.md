@@ -10,3 +10,6 @@ Entre C1 et C6: on voit une porte avec une petite salle.
 
 On trouve aussi une super grande bibliothèque, avec une rotonde, qui connecte avec d'autres pièces: Atelier, matériel de réparation, sécurité, appartement privés, bureau du scribe. 
 
+C15: Salle ronde avec des [[Ghoule]], un ruban de lumière bleue style nécrotique. 
+
+C11: Grande bibliothèque avec pleins de livres. Faudra en faire un truc. Il y a quelques salles autours avec des infos. 

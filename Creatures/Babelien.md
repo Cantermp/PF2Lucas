@@ -1,0 +1,1 @@
+Une abomination. On l'a trouvée morte dans un caveau dans le [[Sous-sol du phare d'Otira]]. 

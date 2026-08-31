@@ -2,7 +2,7 @@
 - Déesse: Desna
 	- Desna (CG)
 
-The kindly Song of the Spheres presides over dreams, luck, stars, and travelers. An ancient goddess, Desna delights in freedom and mystery, and she encourages her followers to do the same. Edicts aid fellow travellers, explore new places, express yourself through art and song, find what life has to offer Anathema cause fear or despair, cast nightmare or use similar magic to corrupt dreams, engage in bigoted behaviour.
+The kindly Song of the Spheres presides over dreams, luck, stars, and travelers. An ancient goddess, [[Desna]] delights in freedom and mystery, and she encourages her followers to do the same. Edicts aid fellow travellers, explore new places, express yourself through art and song, find what life has to offer Anathema cause fear or despair, cast nightmare or use similar magic to corrupt dreams, engage in bigoted behaviour.
 
 Follower Alignments NG, CG, CN
 Devotee Benefits
@@ -13,4 +13,3 @@ Domains dreams, luck, moon, travel
 Sorts de prêtre 1er: lecture d’objet, 2e : poussière scintillante, 6e: couverture stellaire
 
 
-Lire la destinée:

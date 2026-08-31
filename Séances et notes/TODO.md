@@ -1,2 +1,4 @@
 - Ramener des livres pour [[Augrael]], et des cadavres. 
 - On doit ternir l'image de [[Volluk Azrinaé]] par principe. 
+- Envoyer des gens de la ville pour récupérer les livres. 
+- Il faudrait voir pour [[Augrael]], voir s'il est vraiment gentil. 

@@ -7,4 +7,5 @@
 - Ashan: Dans le phare dans les sous sols: **Rencontre**
 - Zathra: Dans le sous sol du phare: **Lueur**
 - Shin: Au petit dej après exploration du -1 du phare: **Toile**
+- La fantôme: Après les combats dans le sous sous sol du phare et les ghoules, dans la bibliothèque: **Sortir**
 - 

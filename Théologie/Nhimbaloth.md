@@ -10,7 +10,7 @@ Elle cherche donc les endroits ou il y a beaucoup de morts, ca affaibli la front
 
 
 On a demandé des infos à un prêtre:
-Nhimbaloth: On se souvient de la rivière des âmes: En fait, elle dévore les âmes digérées par les mangeurs d'âmes. Elle se balade sur les berges de la rivière. Elle peut se manifester dans certaines conditions dans un des mondes. Elle a besoin d'un catalyseur: Beaucoup de morts d'un coup, ce qui affaibli la zone, et s'engouffrer dans la faille pour souiller la zone. Les traces de [[Follet Clignotant]] indiquent aussi le passage de Nhimbalot. Ca ressemble fortement au [[Brumarais]] du [[Phare d'Otira]]. 
+Nhimbaloth: On se souvient de la rivière des âmes: En fait, elle dévore les âmes digérées par les mangeurs d'âmes. Elle se balade sur les berges de la rivière. Elle peut se manifester dans certaines conditions dans un des mondes. Elle a besoin d'un catalyseur: Beaucoup de morts d'un coup, ce qui affaibli la zone, et s'engouffrer dans la faille pour souiller la zone. Les traces de [[Follet Clignotant]] indiquent aussi le passage de Nhimbaloth. Ca ressemble fortement au Brumarais du [[Phare d'Otira]]. 
 
 Symboles: Croix orange, lueur bleuté, crânes mousse. 
 Domaine: Mort

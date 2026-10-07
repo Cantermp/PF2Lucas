@@ -8,7 +8,7 @@ On est à 45 minutes de la ville.
 Des petites fées style Gremlins sont dans la tour de guet. 
 On les défonce, ce sont des petites merdes. 
 
-Marre d'eau à coté de la tour de guet: A3, Sud:
+Mare d'eau à coté de la tour de guet: A3, Sud:
 Un [[Crapaud énorme]], de la taille d'un cheval. 
 On y trouve aussi un kobold décédé le long de la marre. Serait-ce un lien avec les [[Kobolds fantômes]]?
 
@@ -92,7 +92,7 @@ On y trouve un [[Brownie]]. Elle nous indique une créature dangereuse plus loin
 On trouve aussi des escaliers en collimacon qui descendent. Peut être vers le sous sol ou grotte?
 
 Couloir A22:
-On trouve 4 tableaux dans le couloir, 
+On trouve 4 [[Tableaux d'Otira]] dans le couloir, 
 1) Citée d'[[Apsalom]] en feu. 
 	1) Note: C'est ainsi que les imbéciles souffriront
 2) Phare avec une lueur bleue contenant des visages fantomatiques
@@ -108,7 +108,7 @@ Une salle octogonale, qui ressemble à un atelier.
 On y trouve une longue vue sertie de Pierre précieuse. 
 Des débris partout et du verre au sol. 
 Une [[Oiseau en bois mécanique]] se dresse sur le tas et nous demande:
-Le maitre [[Azrinaé]] est-il revenu ?
+Le maitre [[Volluk Azrinaé]] est-il revenu ?
 La créature s'envole et un combat commence. 
 On y trouve aussi une gemme dans le corp, et une longue vue. 
 

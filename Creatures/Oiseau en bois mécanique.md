@@ -1,4 +1,4 @@
-Dans le [[Phare d'Otira]], et a un lien avec [[Azrinaé]]. 
+Dans le [[Phare d'Otira]], et a un lien avec [[Volluk Azrinaé]]. 
 Elle est très petite. 
 C'est immunisé aux dégats mentaux et nécro. C'est normal, c'est mécanique. 
 

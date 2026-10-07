@@ -1,0 +1,1 @@
+Je vois en le soignant qu'il a une grande partie de l'épaule et du torse brulé, bien ancien. 

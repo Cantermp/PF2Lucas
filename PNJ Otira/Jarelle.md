@@ -1,1 +1,1 @@
-Fantome bibliothécaire dans le [[Sous-sol du phare d'Otira]].
+Fantome bibliothécaire dans le [[Sous-sous-sol du phare d'Otira]].
